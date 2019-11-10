@@ -1,0 +1,86 @@
+* 
+body {
+    background-image: url("gray.png");
+  }
+
+h1 { 
+    font-size: 42pt;
+    color: #F1B434;
+    margin-top: auto;
+    margin-bottom: -1%;
+}
+h2 
+{
+    font-size: 18pt;
+    color: black;
+    margin-left: 13%;
+    
+    
+    
+}
+h3 {
+    font-size: 30pt;
+    color: #1D252D;
+    margin-left: 15%;
+}
+
+.description
+{
+    font-size: 18pt;
+    margin-left: 20%;
+    font-style: italic;
+    width: 800px;
+    word-wrap: break-word;
+
+}
+
+button {
+    background-color: #E63888;
+    border: none;
+    color: white;
+    padding: 18px 32px;
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: 45%;
+
+  }
+ 
+.Meryem
+
+{
+height: 25%;
+width: 25%;
+margin-right: 0%;
+
+}
+
+.footer {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 10px;
+  }
+
+  table {
+    table-layout: auto;
+    white-space: normal!important;
+    margin-left: 15.3%;
+    margin-right: 10%;
+    width: 70%;
+    height: 70%;
+    
+  }
+ 
+  td.wrappable,
+table.data_table td.wrappable {
+    white-space: normal;
+}              
+
+td
+{
+    width: 20%;
+    padding: 25px 25px 25px 25px;
+    
+
+}
+
